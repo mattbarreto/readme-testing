@@ -1,4 +1,5 @@
-# Titulo
+# Videojuegos con Python
+## Introducción a la programacion mediante codigo y la computacion fisica con Raspberry Pi
 
 ![GIF Animado](https://github.com/mattbarreto/readme-testing/blob/master/ezgif.com-video-to-gif.gif)
 
